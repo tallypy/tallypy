@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tallyta Santos (@tallypy)
+- 👋 Hi, I’m Tallyta Santos
 - :earth_americas: I'm from Curitiba/PR - Brazil
 - :sunny: I'm a Solar Astrophysicist
 - :books: I’m currently learning Data Science
