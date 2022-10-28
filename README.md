@@ -8,11 +8,11 @@ I've always lived in Curitiba, but I'm looking for work opportunities abroad tha
 
 - :sunny: Sou professora de Física e mestre em Astrofísica Solar | I'm a Physics teacher and master in Solar Astrophysicist
 
-Me formei em Física pela [PUCPR](https://www.pucpr.br/) em 2018, e lecionei em várias escolas estaduais ([SEED](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio)) para Ensino Médio e EJA. Atualmente sou professora-autora de disciplinas EAD da [Graduação em Física da PUCPR](https://ead.pucpr.br/cursos-graduacao/fisica-ead).
+Me formei em Física pela [PUCPR](https://www.pucpr.br/) em 2018, e lecionei em várias escolas estaduais - [SEED](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio) para Ensino Médio e EJA. Atualmente sou professora-autora de disciplinas EAD da [Graduação em Física da PUCPR](https://ead.pucpr.br/cursos-graduacao/fisica-ead).
 
 Em 2021 terminei meu mestrado em Física Solar pela [UTFPR](http://www.utfpr.edu.br/). Durante esse período visitei o [INPE](http://inpe.br/) (Instituto Nacional de Pesquisas Espaciais) para colaboração com pesquisadores de Geofísica espacial. Foi quando tive contato com manipulação de dados em linguagem Python. Minha pesquisa explora, através de processamento digital de imagens solares, a capacidade preditiva de métricas estatísticas para grandes eventos que ocorrem na superfície do sol, as explosões solares.
 |
-I graduated in Physics from [PUCPR](https://www.pucpr.br/) in 2018, and taught in several state schools ([SEED](https://www.educacao.pr.gov.br/?utm_source =education&utm_medium=page_deviation&utm_campaign=deviation-seed&utm_id=deviation)) for High School and EJA. I'm currently a professor-author of EAD subjects at [Graduate in Physics at PUCPR](https://ead.pucpr.br/cursos-graduacao/fisica-ead).
+I graduated in Physics from [PUCPR](https://www.pucpr.br/) in 2018, and taught in several state schools [SEED](https://www.educacao.pr.gov.br/?utm_source =education&utm_medium=page_deviation&utm_campaign=deviation-seed&utm_id=deviation) for High School and EJA. I'm currently a professor-author of EAD subjects at [Graduate in Physics at PUCPR](https://ead.pucpr.br/cursos-graduacao/fisica-ead).
 
 In 2021 I finished my Masters in Solar Physics at [UTFPR](http://www.utfpr.edu.br/). During this period I visited [INPE](http://inpe.br/) (National Institute for Space Research) to collaborate with researchers in spatial geophysics. That's when I had contact with data manipulation in Python language. My research explores, through solar digital image processing, the predictive ability of statistical metrics for major events that occur on the surface of the sun, solar flares.
 
@@ -23,9 +23,13 @@ Sou residente do HUB de IA do SENAI Londrina, onde estou aprendendo Ciência de 
 I'm a resident of the AI ​​HUB at SENAI Londrina, where I am updating Data Science applied to solving problems with Artificial Intelligence for the Paraná Industry.
 
 
+
 - :mailbox_closed: [Me envie um e-mail para colaboração](tallyta.asantos@outlook.com) | [Send me an e-mail to colaboration](tallyta.asantos@outlook.com)
 
+
 E acesse minhas redes de contato para mais informações | And access my contacts networks for more information:
+
+   
    
 </div>
 <div id="badges" align="center">
