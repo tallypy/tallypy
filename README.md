@@ -1,8 +1,10 @@
 # Oi, meu nome é Tallyta :wave:
 
+### :bar_chart: Sou Cientista de Dados e Especialista em Inteligênca Artificial
+
 ### :earth_americas:  Sou de Curitiba/PR - Brasil
 
-### :sunny: Sou profesora de Física e mestre em Astrofísica Solar
+### :sunny: Sou professora de Física e mestre em Astrofísica Solar
 
 * Graduada em Física pela [PUCPR](https://www.pucpr.br/) em 2018.
 * Lecionei em várias escolas estaduais - [SEED](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio) para Ensino Médio e EJA. 
