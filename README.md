@@ -2,6 +2,8 @@
 
 ### :bar_chart: Sou Cientista de Dados e Especialista em Inteligênca Artificial
 
+* Especialização em Inteligência Artificial pelo [Hub de IA SENAI]([https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/]) em 2023.
+
 ### :sunny: Sou professora de Física e mestre em Astrofísica Solar
 
 * Graduada em Física pela [PUCPR](https://www.pucpr.br/) em 2018.
