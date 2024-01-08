@@ -6,7 +6,7 @@
 * Nesta Pós-Graduação estudei os conceitos de Ciência de Dados aplicada à resolução de problemas com Inteligência Artificial para a Indústria Paranaense.
 * Tive a oportunidade de desenvolver projetos diferenciados com grandes empresas, como análise de dados e desenvolvimento de melhorias na linha de produção, análise e predição de dados financeiros, e métodos de visão computacional para detecção da face, do olhar, e de emoções e características.
 
-### :sunny: Sou professora de Física e mestre em Astrofísica Solar
+### :sunny: Sou mestre em Astrofísica Solar
 
 * Mestre em Física Solar pela [UTFPR](http://www.utfpr.edu.br/) em 2021.
 Durante esse período visitei o [INPE](http://inpe.br/) (Instituto Nacional de Pesquisas Espaciais) para colaboração com pesquisadores de Geofísica espacial. 
