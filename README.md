@@ -4,7 +4,7 @@
 
 * Especialização em Inteligência Artificial pelo [Hub de IA SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/) em 2023.
 * Nesta Pós-Graduação estudei os conceitos de Ciência de Dados aplicada à resolução de problemas com Inteligência Artificial para a Indústria Paranaense.
-* Tive a oportunidade de desenvolver projetos diferenciados com grandes empresas, como análise de dados e desenvolvimento de melhorias na linha de procução, análise e predição de dados financeiros, e métodos de detecção da face, de emoções e de características.
+* Tive a oportunidade de desenvolver projetos diferenciados com grandes empresas, como análise de dados e desenvolvimento de melhorias na linha de produção, análise e predição de dados financeiros, e métodos de visão computacional para detecção da face, do olhar, e de emoções e características.
 
 ### :sunny: Sou professora de Física e mestre em Astrofísica Solar
 
@@ -13,7 +13,7 @@ Durante esse período visitei o [INPE](http://inpe.br/) (Instituto Nacional de P
 Foi quando tive contato com manipulação de dados em linguagem Python. Minha pesquisa explorou, através de processamento digital de imagens solares, a capacidade preditiva de métricas estatísticas para grandes eventos que ocorrem na superfície do sol, as explosões solares.
 
 
-## :books: ### :sunny: Sou professora de Física
+## :books: Sou professora de Física
 
 * Graduada em Física pela [PUCPR](https://www.pucpr.br/) em 2018.
 * Lecionei em várias escolas estaduais - [SEED](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio) para Ensino Médio e EJA. 
