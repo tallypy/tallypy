@@ -13,7 +13,7 @@ Durante esse período visitei o [INPE](http://inpe.br/) (Instituto Nacional de P
 Foi quando tive contato com manipulação de dados em linguagem Python. Minha pesquisa explorou, através de processamento digital de imagens solares, a capacidade preditiva de métricas estatísticas para grandes eventos que ocorrem na superfície do sol, as explosões solares.
 
 
-## :books: Sou professora de Física
+### :books: Sou professora de Física
 
 * Graduada em Física pela [PUCPR](https://www.pucpr.br/) em 2018.
 * Lecionei em várias escolas estaduais - [SEED](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio) para Ensino Médio e EJA. 
