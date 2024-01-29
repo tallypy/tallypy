@@ -4,12 +4,12 @@
 
 * Especialização em Inteligência Artificial pelo [Hub de IA SENAI](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/) em 2023.
 * Nesta Pós-Graduação estudei os conceitos de Ciência de Dados aplicada à resolução de problemas com Inteligência Artificial para a Indústria Paranaense.
-* Tive a oportunidade de desenvolver projetos diferenciados com grandes empresas, como análise de dados e desenvolvimento de melhorias na linha de produção, análise e predição de dados financeiros, e métodos de visão computacional para detecção da face, do olhar, e de emoções e características.
+* Tive a oportunidade de desenvolver projetos diferenciados com grandes empresas, como análise de dados e desenvolvimento de melhorias na linha de produção, análise e predição de dados financeiros, e métodos de visão computacional para detecção de face, olhar, emoções e características.
 
 ### :sunny: Sou mestre em Astrofísica Solar
 
 * Mestre em Física Solar pela [UTFPR](http://www.utfpr.edu.br/) em 2021.
-Durante esse período visitei o [INPE](http://inpe.br/) (Instituto Nacional de Pesquisas Espaciais) para colaboração com pesquisadores de Geofísica espacial. 
+Durante esse período visitei o [INPE](https://www.gov.br/inpe/pt-br) (Instituto Nacional de Pesquisas Espaciais) para colaboração com pesquisadores de Geofísica espacial. 
 Foi quando tive contato com manipulação de dados em linguagem Python. Minha pesquisa explorou, através de processamento digital de imagens solares, a capacidade preditiva de métricas estatísticas para grandes eventos que ocorrem na superfície do sol, as explosões solares.
 
 
