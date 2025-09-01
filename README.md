@@ -38,7 +38,4 @@ Acesse minhas redes de contato para mais informações
   <a href="https://www.linkedin.com/in/tallyta-santos/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Badge" width = 100/>
   </a>
-  <a href="http://lattes.cnpq.br/1309552921686924">
-    <img src="http://paginapessoal.utfpr.edu.br/jlrebelatto/icon_Lattest.png/image" alt="Lattes Badge" width = 100/>
-  </a>
 </div>
